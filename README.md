@@ -52,6 +52,7 @@ O DataTable deve:
 - **NextAuth** para autenticação
 - **MongoDB** para o banco de dados
 - **Mongoose** para abstrair o banco de dados
+- **styled-components** para estilização (opcional, preferencial)
 - **Axios** para requisições
 - **Vercel** para deploy
 
